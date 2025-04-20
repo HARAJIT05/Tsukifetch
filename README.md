@@ -7,6 +7,7 @@
 
 # Tsukifetch
 Hey guys this is a CLI based System Information tool like neofetch.
+this is our demo project.
 It is build in C language. I hope you guys will like it. If you faced any kind of error feel free to contact me.
 
 ## Setup
